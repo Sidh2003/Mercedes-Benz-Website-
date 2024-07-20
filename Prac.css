@@ -482,7 +482,7 @@ color:rgb(83, 123, 144) ;
 
 /* =================================== MOBILE VERSION  ==================================================== */
 
-@media(max-width:600px){
+@media(max-width:380px){
 
 
   body{
@@ -584,12 +584,10 @@ color: #0a0d10;
 }
 
 #info button{
-  width: 8rem;
-  
+  width: 5rem;
   background-color: rgb(0, 140, 255);
   border: none;
   color: #fff;
-  
 
 }
 #info button:hover{
@@ -599,6 +597,8 @@ color: #0a0d10;
   background-color: transparent;
   color: black;
   border: 2px solid gray;
+  width: 80%;
+  height: 10%;
   
 }
 #info #buttonI:hover{
@@ -606,14 +606,15 @@ color: #0a0d10;
 
 }
 #info #buttonII{
-  margin-top: 6.1rem;
+  margin-top: 157px;
 }
 
 #info #but1{
-  margin-top: 5.4rem;
+  margin-top: 12.3rem;
 }
 #info #but3{
-  margin-top: 2.7rem;
+  margin-top: 65px;
+
 }
 
 /* #sec-II h1{
@@ -733,6 +734,7 @@ button:hover #SPAN{
 
 footer{
   margin-top:10rem ;
+  margin: auto;
 }
 
 #foot-pan1 h4{
@@ -783,8 +785,8 @@ ul h6:hover{
 #Logo{
   background-image: url(./image/images.png);
         background-size: cover;
-        height: 58px;
-        width: 39%;
+        height: 60px;
+        width: 65%;
         border: 1px solid black;
     }
 }
@@ -882,8 +884,3 @@ color:rgb(83, 123, 144) ;
   color: rgb(190, 188, 188);
 }
 
-
-
-
-
-}
