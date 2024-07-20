@@ -606,14 +606,15 @@ color: #0a0d10;
 
 }
 #info #buttonII{
-  margin-top: 157px;
+  margin-top: 200px;
+  width: 100%;
 }
 
 #info #but1{
-  margin-top: 12.3rem;
+  margin-top: 216px;
 }
 #info #but3{
-  margin-top: 65px;
+  margin-top: 86px;
 
 }
 
@@ -786,7 +787,7 @@ ul h6:hover{
   background-image: url(./image/images.png);
         background-size: cover;
         height: 60px;
-        width: 65%;
+        width: 75%;
         border: 1px solid black;
     }
 }
@@ -883,4 +884,5 @@ color:rgb(83, 123, 144) ;
 #register input::placeholder{
   color: rgb(190, 188, 188);
 }
+
 
